@@ -22,17 +22,13 @@ This project uses **NLP techniques** to preprocess the plot text, convert it int
 - 📈 **Model Performance**
 - 🧪 **How to Use**
 - 🏁 **Results**
-- 🚀 **Future Improvements**
 - 👥 **Contributors**
-- 📝 **License**
-
 ---
 
 ## 📊 **DATASET INFORMATION**
-- **Name**: *Wikipedia Movie Plots Dataset*
-- **Source**: [Kaggle Dataset Link](https://www.kaggle.com/datasets/jrobischon/wikipedia-movie-plots)
+- **Name**: *Movie Plots Dataset*
 - **Format**: CSV  
-- **Total Entries**: 34,886 movie records  
+- **Total Entries**: 9,466 movie records  
 - **Columns**:
   - `Title`: Name of the movie  
   - `Plot`: Description/summary of the movie  
