@@ -22,7 +22,7 @@ This project uses **NLP techniques** to preprocess the plot text, convert it int
 - 📈 **Model Performance**
 - 🧪 **How to Use**
 - 🏁 **Results**
-- 👥 **Contributors**
+- 👥 **Author**
 ---
 
 ## 📊 **DATASET INFORMATION**
